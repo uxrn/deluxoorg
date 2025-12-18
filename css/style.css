@@ -1,7 +1,8 @@
 body { font-family: monospace; margin: 0; color: #ffffff; background-color: #1a1a1a; }
-a { text-decoration: none; color: inherit; }
-a:visited { text-decoration: none; color: inherit; }
-a:hover { text-decoration: none; color: inherit; }
+
+a, a:hover, a:visited { text-decoration: none; color: inherit; }
+button, button:hover, button:visited { text-decoration: none; color: inherit; }
+
 ul { padding: 0; }
 
 .center { text-align: center; justify-content: center; align-items: center; }
@@ -12,8 +13,6 @@ ul { padding: 0; }
 
 #nav-header { max-width: 900px; margin: auto; padding: 0 20px; position: sticky; top: 0; background: #2a2a2a; border: 1px dashed; text-align: left; }
 #nav-header li { display: inline; padding: 0 2px; }
-#nav-header button { text-decoration: none; }
-#nav-header button:hover { text-decoration: none; }
 
 #stats-table { border-collapse: collapse; min-width: 600px; max-width: 900px; margin: auto; }
 
