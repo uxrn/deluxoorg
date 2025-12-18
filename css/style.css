@@ -1,5 +1,7 @@
 body { font-family: monospace; margin: 0; color: #ffffff; background-color: #1a1a1a; }
-a { text-decoration: none; }
+a { text-decoration: none; color: inherit; }
+a:visited { text-decoration: none; color: inherit; }
+a:hover { text-decoration: none; color: inherit; }
 ul { padding: 0; }
 
 .center { text-align: center; justify-content: center; align-items: center; }
@@ -13,7 +15,7 @@ ul { padding: 0; }
 #nav-header button { text-decoration: none; }
 #nav-header button:hover { text-decoration: none; }
 
-#stats-table { border-collapse: collapse; width: 100%; }
+#stats-table { border-collapse: collapse; min-width: 600px; max-width: 900px; margin: auto; }
 
 td, th { text-align: left; padding: 12px; border: 1px dashed #ffffff; }
 th { background-color: #2a2a2a; }
@@ -21,4 +23,5 @@ th { background-color: #2a2a2a; }
 @media screen and (max-width: 768px) {
   .footer { margin-bottom: 0; }
   #nav-header { text-align: center; }
+  #stats-table { min-width: 100%; }
 }
