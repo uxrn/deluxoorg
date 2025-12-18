@@ -1,0 +1,69 @@
+Deluxo (DLUX) Project Updates
+
+
+
+Posted: December 18th, 2025
+
+Stats proxy, website robustness, and whitepaper tidiness.
+
+A stats proxy has been implemented in order for the token stats to correctly display 
+on the homepage using the legacy APIs. The homepage, updates, and whitepaper pages 
+have been robustly simplified (no more dependencies).
+
+The whitepaper itself has been grammatically corrected.
+
+
+
+Posted: January 21st, 2023
+
+Compromised deployer address and revised distribution plans.
+
+A lot has happened over the past year, with the biggest being that the deployer address 
+for DLUX was compromised. All remaining DLUX in the deployer address has been moved 
+to 0x966a4a910b7de4105b4c691cd00de3bc94aff94e to be safely distributed in the future.
+
+Also, the distribution plans have changed. Our understanding of Ethereum 2.0 was flawed, 
+and it is still not possible to mass distribute ERC-20 tokens without facing bulk gas 
+fees. The search for a logical solution for mass distribution of DLUX will continue. In 
+the meantime, Ethereum address collecting will continue on the homepage for when 
+distribution is possible.
+
+
+
+Posted: February 22nd, 2022
+
+What is your Ethereum addresses?
+
+You may have noticed a new entry box on the home page of the website... it is collection 
+time. There is a service that will be able to mass distribute DLUX to thousands of 
+addresses without having to spend individual transaction fees. If you would like to 
+receive some DLUX, go to the homepage, submit your Ethereum address, and follow our 
+Twitter to know when the DLUX will be distributed. The whitepaper has also been updated 
+accordingly.
+
+
+
+Posted: October 4th, 2021
+
+Changes to the whitepaper.
+
+After reviewing the whitepaper, the distribution plans needed some adjustments. The old 
+ones were outdated and illogical. There are now two distribution plans: A and B. These 
+plans account for Ethereum and Ethereum 2.0. 
+
+Also, some slight adjustments to the website were made.
+
+
+
+Posted: July 19th 2021
+
+Complete website redesign and whitepaper.
+
+The website has been redesigned and is now utilizing Bootstrap's toolkit. The website 
+now has a default dark theme and added navigation bar. Also, homepage information has 
+been updated to better explain the project mission. In addition to the website redesign, 
+a DLUX whitepaper has been created.
+
+You can view the whitepaper by clicking the link at the top of the page. An abridged 
+summary of the whitepaper is that DLUX is a non-unique crypto-collectible. The goal is 
+to reach as many users as possible and achieve some form of value.

@@ -1,0 +1,103 @@
+Deluxo (DLUX) Whitepaper
+
+Last Updated: December 18, 2025
+
+
+[0] Introduction
+
+Deluxo (DLUX) is an ERC-20 token deployed on the Ethereum blockchain. This document 
+outlines the project's vision, token specifications, history, and proposed distribution 
+strategy. DLUX is developed and managed by a single individual with the aim of creating 
+a widely distributed, fungible collectible token.
+
+
+[1] Token Specifications
+
+Name: Deluxo
+Symbol: DLUX
+Standard: ERC-20
+Total Supply: 4,700,000 DLUX
+Decimals: 18
+Contract Address: 0x42b05a12783a659eb53a7d90b2c70929af96ad71
+
+
+[2] Project Vision
+
+DLUX is designed to function as a fungible collectible token. Unlike traditional 
+cryptocurrencies focused primarily on transactional utility, DLUX emphasizes 
+collectability while maintaining fungibility. The intent is to foster a community where 
+holders view and discuss their DLUX holdings in a manner similar to collectibles.
+
+Illustrative Example:
+Holder A: "How much Deluxo do you hold?"
+Holder B: "Approximately 2 DLUX. You?"
+Holder A: "I have accumulated 10 DLUX through various community interactions."
+
+This positions DLUX as a unique asset within the cryptocurrency ecosystem.
+
+
+[3] Background and History
+
+DLUX was initially deployed on July 31, 2018, motivated by the creator's interest in 
+developing a personal cryptocurrency project. The name "Deluxo" was selected for its 
+appeal, driving the commitment to bring the token to fruition.
+
+The primary objective has always been broad distribution across thousands of wallets, 
+establishing intrinsic community-driven value—even if modest.
+
+Early efforts included distributing 21,100 DLUX to acquaintances outside the 
+cryptocurrency space via mobile wallets, in the hope of organic propagation. These 
+tokens are considered permanently out of circulation.
+
+Over the subsequent years, limited activity occurred with the project, resulting in 
+the creator retaining the majority of the supply. Previous attempts at manual 
+distribution via social platforms did not materialize.
+
+Historical Note: An initial version of the token was deployed on July 24, 2018 
+(contract: 0x83e11a3b34d2330adf67a3b1032172a7bc408e17), with a supply of 4,721,500 and 
+8 decimals. This was superseded by the current version for alignment with standard 
+conventions (rounded supply and 18 decimals). The initial version's supply was 
+transferred to an inaccessible wallet.
+
+
+[4] Distribution Strategy
+
+To achieve wide distribution, the following plans are under consideration, focusing on 
+approximately 4,600,000 DLUX from the primary holding address:
+
+Primary Plan:
+
+Identify a cost-effective method for mass distribution of ERC-20 tokens. This involves:
+
+1. Compiling a list of 4,600 to 46,000 Ethereum addresses expressing interest in DLUX.
+2. Utilizing a efficient distribution mechanism to minimize gas fees.
+3. Airdropping 100 to 1,000 DLUX per qualifying address.
+
+This approach aims to ensure broad accessibility without prohibitive transaction costs.
+
+Contingency Plan:
+
+As an alternative, provide liquidity on a decentralized exchange (e.g., Uniswap) by 
+pairing the available DLUX with 1-10 ETH. This would establish an initial market price 
+(approximately $0.00065 - $0.0065 per DLUX, assuming ETH at $3,000).
+
+Risk Consideration: This method carries the potential for a single entity to acquire the 
+entire liquidity pool, effectively removing the token from open trading.
+
+Allocation Details:
+
+(a) 4,600,000 DLUX designated for distribution.
+(b) 78,900 DLUX (~1.68% of total supply) retained by the creator.
+(c) 21,100 DLUX previously distributed and considered irretrievable.
+
+
+[5] Disclaimer:
+
+Deluxo (DLUX) is not intended as an investment or security. Holders assume all risks 
+associated with cryptocurrency ownership, including volatility, potential loss of value, 
+and regulatory compliance. The project makes no guarantees regarding future value, 
+liquidity, or utility. Participants are advised to conduct independent research and 
+ensure adherence to applicable laws.
+
+This document reflects the project's current status and vision. Updates may be provided 
+via official channels as progress is made toward distribution goals.

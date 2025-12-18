@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-VHVZGVQ395"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-VHVZGVQ395');
+    </script>
+    
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Deluxo (DLUX) - tenure token</title>
+    <link rel="stylesheet" href="css/style.css">
+
+  </head>
+
+  <body>
+
+    <div id="nav-header">
+      <ul>
+        <li><a href="https://deluxo.org?utm_source=deluxo.org"><button>Home</button></a></li>
+        <li><a href="dlux-updates.txt" target="_blank"><button>Updates</button></a></li>
+        <li><a href="dlux-whitepaper.txt" target="_blank"><button>Whitepaper</button></a></li>
+        <li><a href="https://app.uniswap.org/swap?outputCurrency=0x42b05a12783a659eb53a7d90b2c70929af96ad71" target="_blank"><button>Exchange</button></a></li>
+      </ul>
+    </div> 
+
+    <div class="container no-border">
+      <div class="center">
+        <p><b>Deluxo (DLUX)</b><br>tenure token</p>
+      </div>
+    </div>
+
+    <div class="container">
+      <p>DLUX is a cryptocurrency that operates on the Ethereum blockchain by using the ERC-20 token standard. What makes DLUX special is tenure on the blockchain. DLUX was deployed roughly <script>document.write(new Date().getFullYear() - 2018)</script> years ago and predates all new tokens that have exploded in popularity. By maintaining such a long-standing residency, DLUX is able to distinguish itself over other dubious tokens.</p>
+      <p>The purpose of DLUX has changed over the years, from <i>giving gratuity to friends and family</i>, to <i>introducing newcomers to the world of cryptocurrency</i>, to <i>acting as a fungible collectible</i>. No matter what the purpose, DLUX will always be for everyone.</p>
+    </div>
+
+    <div class="container">
+
+      <p><b>Want free DLUX?</b></p>
+      <p>We want to give DLUX to everyone. If you would like to receive some free DLUX (when distribution is ready), please enter your Ethereum address below. Be sure to read our distribution plans in our whitepaper.</p>
+      
+      <div class="center">
+
+        <form name="addForm" method="post" action="">
+          <input id="inp-sub" type="text" name="ethAdd" value="" maxlength="42" style="width:250px" placeholder="0x966a4a910b7de4105b4c691cd00de3bc94aff94e">
+          <input class="c-btn" type="submit" onclick="return validAddress()" value="Add">
+        </form>
+
+        <p><span id="addStatus">Only one address may be entered.</span></p>
+
+      </div>
+   
+    </div>
+
+    <div class="container">
+      <div>
+        <p><b>Speed & Transparency</b></p>
+        <p>Thanks to the processing power of our host blockchain, transaction speeds for sending DLUX are extremely fast and secure. Every DLUX transaction is verified on the Ethereum blockchain.</p>
+      </div>
+      <div>
+        <p><b>Storage & Wallets</b></p>
+        <p>You will need a place to access and store your DLUX. Since DLUX runs off of the Ethereum blockchain, there are many supported Ethereum wallets available. We recommend Trust Wallet or MetaMask.</p>
+      </div>
+    </div>
+
+    <div class="container no-border no-con-pad">
+      <table id="stats-table">
+        <tr>
+          <th>Holders</th>
+          <th>Transfers</th>
+          <th>Circulating</th>
+          <th>Transferred</th>
+        </tr>
+        <tr>
+          <td><span id="holders_count">00</span>+</td>
+          <td><span id="transfers_count">00</span>+</td>
+          <td><span id="circulating_supply">000,000.00</span>+</td>
+          <td><span id="transfered_amount">00,000,000.00</span>+</td>
+        </tr>
+      </table>
+    </div>
+
+    <div class="container">
+      <p><b>Why does it take Ethereum to transfer DLUX?</b></p>
+      <p>DLUX is an ERC-20 token. This means that is does not run on a proprietary blockchain (a system of verifying transactions, mining, etc.), so it must operate under a larger one (the Ethereum blockchain). Ethereum is needed to pay for DLUX transactions and only Ethereum addresses can recieve DLUX.</p>
+      <p><b>How much DLUX do you plan distribute?</b></p>
+      <p>The plan is to distribute 4,621,100 DLUX out of the total 4,700,000 DLUX. This will be accomplished through a multi-token distributor service.</p>
+      <p><b>How much is 1 DLUX worth?</b></p>
+      <p>DLUX currently has no real value. It is worth only what you value it. If the 4,621,100 DLUX gets evenly distributed as planned, then listings on exchanges will follow.</p>
+    </div>
+
+    <div class="container">
+      <p>If you have any questions, feel free to send us a message <a href="https://x.com/deluxo" target="_blank"><button>@deluxo</button></a> or via <a href="mailto:hello@deluxo.com"><button>email</button></a>.</p>
+    </div>
+
+    <div class="container footer">
+      <p>&copy; Deluxo LLC, 2018 - <script>document.write(new Date().getFullYear())</script>.</p>
+      <p>DISCLOSURE: By purchasing DLUX, you agree that you are not purchasing a security or investment contract and you agree to hold the creators not liable for any losses, taxes, or fees you may incur. DLUX is not a registered digital currency. Always make sure that you are in compliance with applicable laws and regulations before you make any purchase. Cryptocurrencies are not legal tender and are not investments.</p>
+    </div>
+
+    <script src="js/commas.js"></script>
+    <script src="js/bloxy.js"></script>
+    <script src="js/addValidator.js"></script>
+    <script src="js/addForm.js"></script>
+
+  </body>
+</html>
