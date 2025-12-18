@@ -1,7 +1,7 @@
 body { font-family: monospace; margin: 0; color: #ffffff; background-color: #1a1a1a; }
 
-a, a:hover, a:visited { text-decoration: none; color: inherit; }
-button, button:hover, button:visited { text-decoration: none; color: inherit; }
+a, a:hover, a:visited { text-decoration: none; color: #000; }
+button, button:hover, button:visited { text-decoration: none; color: #000; }
 
 ul { padding: 0; }
 
