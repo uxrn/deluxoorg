@@ -1,7 +1,7 @@
 const p1 = "ACCRWOWS";
 const p2 = "JrvRv";
 const url = 'https://api.bloxy.info/token/token_stat?token=0x42b05a12783a659eb53a7d90b2c70929af96ad71&key=' + p1 + p2 + '&format=structure';
-const corsProxy = 'https://dlux.uxrn.workers.dev/?';
+const corsProxy = 'https://wrkr.deluxo.org/?';
 
 async function getDeluxo() {
   try {
